@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.5872,
-          45.5037
+          NaN,
+          45.4809
         ]
       },
       "properties": {
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.6144,
-          45.5364
+          NaN,
+          45.4809
         ]
       },
       "properties": {
@@ -36,8 +36,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.5772,
-          45.4794
+          NaN,
+          45.4809
         ]
       },
       "properties": {
@@ -51,8 +51,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.569,
-          45.525
+          NaN,
+          45.4809
         ]
       },
       "properties": {
@@ -66,14 +66,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.5789,
-          45.4973
+          NaN,
+          45.4809
+        ]
+      },
+      "properties": {
+        "name": "Les Sans-Taverne",
+        "category": "Food",
+        "description": "Coop and craft brewery located in an old factory of Pointe St. Charles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          45.4809
         ]
       },
       "properties": {
         "name": "Concordia Hall Building",
         "category": "Landmark",
         "description": "Where GEOG 464 meets"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          45.4809
+        ]
+      },
+      "properties": {
+        "name": "Purposefully bad entry",
+        "category": "Landmark",
+        "description": "Test purposefully bad entry"
       }
     }
   ]
